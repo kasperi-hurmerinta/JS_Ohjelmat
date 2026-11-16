@@ -19,7 +19,7 @@ function sorted_house() {
         document.querySelector("#teksti").innerHTML = sorting_hat + " sinä olet" + " Ravenclaw"
     }
     else {
-        document.querySelector("#teksti").innerHTML = "Sinulle ei löytynyt huo"
+        document.querySelector("#teksti").innerHTML = "Sinulle ei löytynyt huonetta"
     }
 
 }
